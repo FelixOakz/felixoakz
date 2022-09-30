@@ -14,7 +14,7 @@
 
 - ⚡🚴 Fun fact: **I'm a road cyclist that already rode more than 2 times Earth's circumference**
 
-<h3 align="left">Let's connect!:</h3>
+<h3 align="left">Let's connect:</h3>
 <p align="left">
 <a href="https://dev.to/felixoakz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="felixoakz" height="30" width="40" /></a>
 <a href="https://twitter.com/felixoakz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felixoakz" height="30" width="40" /></a>
