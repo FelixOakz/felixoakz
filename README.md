@@ -1,6 +1,9 @@
 <h1 align="center">Bonsoir, I'm Felix! 😊</h1>
-<h3 align="center">a Brazilian who loves creating and building things very methodically</h3>
+<h3 align="center">- A Brazilian who loves creating and building things very methodically</h3>
 
+<p align="center">
+  <img width="300" src="https://hackaday.com/wp-content/uploads/2020/07/spinning-donut-featured.gif?w=640" alt="donut" />  
+</p>
 
 - 👨‍💻 I’m currently working on **personal projects to enhance my portfolio, freelancing**
 
