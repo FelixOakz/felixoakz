@@ -1,15 +1,15 @@
 <h1 align="center">Bonsoir, I'm Felix! 😊</h1>
-<h3 align="center">A guy from Brazil who loves creating and building very methodically</h3>
+<h3 align="center">A guy from Brazil who loves creating and building things very methodically</h3>
 
 <p align="center">
-  <img width="450" src="https://hackaday.com/wp-content/uploads/2020/07/spinning-donut-featured.gif?w=640" alt="donut" />  
+  <img width="500" src="https://hackaday.com/wp-content/uploads/2020/07/spinning-donut-featured.gif?w=640" alt="donut" />  
 </p>
 
 - 👨‍💻 I’m currently working on **personal projects to enhance my portfolio and freelancing**
 
 - 📚 I’m currently learning **new technologies while improving my frontend skills**
 
-- 👥 I’m looking to collaborate on **open source repositories**
+- 👥 I’m looking to collaborate on **open source projects**
 
 - 📝 I write articles on [https://dev.to/felixoakz](https://dev.to/felixoakz)
 
