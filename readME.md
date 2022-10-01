@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **felix@oakz.org**
 
-- ⚡🚴 Fun fact: **I'm a road cyclist that already rode more than 2 times the Earth's circumference**
+- 🚴 Fun fact: **I'm a road cyclist that already rode more than 2 times the Earth's circumference**
 
 <h3 align="left">Let's connect:</h3>
 <p align="left">
