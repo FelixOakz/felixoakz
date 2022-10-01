@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **felix@oakz.org**
 
-- 🚴 Fun fact: **I'm a road cyclist that already rode more than 2 times the Earth's circumference**
+- 🚴 Fun fact: **I'm a road cyclist and I rode more than 2 times the Earth's circumference already**
 
 <h3 align="left">Let's connect:</h3>
 <p align="left">
@@ -21,6 +21,7 @@
 <a href="https://linkedin.com/in/felixoakz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felixoakz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18523169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18523169" height="30" width="40" /></a>
 <a href="https://dev.to/felixoakz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="felixoakz" height="30" width="40" /></a>
+<a href="https://www.strava.com/athletes/1186062" target="blank"><img align="center" src="https://mobbin.com/_next/image?url=https%3A%2F%2Fujasntkfphywizsdaapi.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fcontent%2Fapp_logos%2F850a6cab-1392-439a-b910-bcdc874a5926.png&w=360&q=85" alt="felixoakz" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
