@@ -1,10 +1,6 @@
 <h1 align="center">Bonsoir, I'm Felix! 😊</h1>
 <h3 align="center">A guy from Brazil who loves creating and building things very methodically</h3>
 
-<p align="center">
-  <img width="500" src="https://hackaday.com/wp-content/uploads/2020/07/spinning-donut-featured.gif?w=640" alt="donut" />  
-</p>
-
 - 👨‍💻 I’m currently working on **personal projects to enhance my portfolio and freelancing**
 
 - 📚 I’m currently learning **new technologies while improving my frontend skills**
@@ -43,11 +39,10 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
+[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixoakz&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=felixoakz&show_icons=true&locale=en" alt="felixoakz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felixoakz&" alt="felixoakz" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felixoakz" alt="felixoakz" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixoakz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/felixoakz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="felixoakz" /></a></p><br><br>
