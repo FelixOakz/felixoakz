@@ -1,5 +1,5 @@
 <h1 align="center">Bonsoir, I'm Felix! 😊</h1>
-<h3 align="center">A guy from Brazil who loves creating and building things very methodically</h3>
+<h3 align="center">- A guy from Brazil who loves creating and building things very methodically</h3>
 
 - 👨‍💻 I’m currently working on **personal projects to enhance my portfolio and freelancing**
 
