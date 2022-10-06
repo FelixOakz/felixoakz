@@ -17,7 +17,8 @@
 <hr />
 
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixoakz&layout=compact&langs_count=8&hide=css,scss,html" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felixoakz&layout=compact&show_icons=true&theme=dark" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixoakz&layout=compact&langs_count=8&theme=dark&hide=css,scss,html" />
 </div>
 
 
