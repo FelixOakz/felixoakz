@@ -16,7 +16,8 @@
 
 <hr />
 
-<div>
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felixoakz&count_private=truelayout=compact&show_icons=true&theme=dark" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixoakz&layout=compact&theme=dark&hide=css,scss,html" />
 </div>
 
@@ -47,6 +48,3 @@
 <a href="https://dev.to/felixoakz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="felixoakz" height="30" width="40" /></a>
 <a href="https://www.strava.com/athletes/1186062" target="blank"><img align="center" src="https://mobbin.com/_next/image?url=https%3A%2F%2Fujasntkfphywizsdaapi.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fcontent%2Fapp_logos%2F850a6cab-1392-439a-b910-bcdc874a5926.png&w=360&q=85" alt="felixoakz" height="30" width="30" /></a>
 </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/felixoakz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="felixoakz" /></a></p><br><br>
