@@ -15,8 +15,8 @@
 - 🚴 Fun fact: **I'm a road cyclist and I rode more than 2 times the Earth's circumference already**
 
 <hr />
+
 <div>
- <img height="179em" src="https://github-readme-streak-stats.herokuapp.com/?user=felixoakz&" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixoakz&layout=compact&langs_count=8&hide=css,scss,html" />
 </div>
 
