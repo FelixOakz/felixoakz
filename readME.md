@@ -16,7 +16,7 @@
 
 <hr />
 <div>
- <img height="178em" src="https://github-readme-streak-stats.herokuapp.com/?user=felixoakz&" />
+ <img height="179em" src="https://github-readme-streak-stats.herokuapp.com/?user=felixoakz&" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixoakz&layout=compact&langs_count=8&hide=css,scss,html" />
 </div>
 
