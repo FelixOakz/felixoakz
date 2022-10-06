@@ -14,6 +14,12 @@
 
 - 🚴 Fun fact: **I'm a road cyclist and I rode more than 2 times the Earth's circumference already**
 
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felixoakz&layout=compact&show_icons=true&theme=dark" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixoakz&layout=compact&langs_count=8&theme=dark&hide=css,scss,html" />
+</div>
+<hr />
+
 <h3 align="left">Let's connect:</h3>
 <p align="left">
 <a href="https://twitter.com/felixoakz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felixoakz" height="30" width="40" /></a>
