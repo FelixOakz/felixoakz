@@ -14,21 +14,12 @@
 
 - 🚴 Fun fact: **I'm a road cyclist and I rode more than 2 times the Earth's circumference already**
 
-<div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felixoakz&layout=compact&show_icons=true&theme=dark" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixoakz&layout=compact&langs_count=8&theme=dark&hide=css,scss,html" />
-</div>
 <hr />
+<div>
+ <img height="178em" src="https://github-readme-streak-stats.herokuapp.com/?user=felixoakz&" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixoakz&layout=compact&langs_count=8&hide=css,scss,html" />
+</div>
 
-<h3 align="left">Let's connect:</h3>
-<p align="left">
-<a href="https://twitter.com/felixoakz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felixoakz" height="30" width="40" /></a>
-<a href="https://instagram.com/felixoakz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felixoakz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/felixoakz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felixoakz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18523169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18523169" height="30" width="40" /></a>
-<a href="https://dev.to/felixoakz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="felixoakz" height="30" width="40" /></a>
-<a href="https://www.strava.com/athletes/1186062" target="blank"><img align="center" src="https://mobbin.com/_next/image?url=https%3A%2F%2Fujasntkfphywizsdaapi.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fcontent%2Fapp_logos%2F850a6cab-1392-439a-b910-bcdc874a5926.png&w=360&q=85" alt="felixoakz" height="30" width="30" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -46,7 +37,17 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felixoakz&" alt="felixoakz" /></p>
+<hr />
+
+<h3 align="left">Let's connect:</h3>
+<p align="left">
+<a href="https://twitter.com/felixoakz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felixoakz" height="30" width="40" /></a>
+<a href="https://instagram.com/felixoakz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felixoakz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/felixoakz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felixoakz" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18523169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18523169" height="30" width="40" /></a>
+<a href="https://dev.to/felixoakz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="felixoakz" height="30" width="40" /></a>
+<a href="https://www.strava.com/athletes/1186062" target="blank"><img align="center" src="https://mobbin.com/_next/image?url=https%3A%2F%2Fujasntkfphywizsdaapi.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fcontent%2Fapp_logos%2F850a6cab-1392-439a-b910-bcdc874a5926.png&w=360&q=85" alt="felixoakz" height="30" width="30" /></a>
+</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/felixoakz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="felixoakz" /></a></p><br><br>
