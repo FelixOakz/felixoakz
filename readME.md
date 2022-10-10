@@ -1,6 +1,7 @@
 <h1 align="center">Bonsoir, I'm Felix! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"></h1>
 <h3 align="center">- A guy from Brazil who loves creating and building things very methodically</h3>
-<h3 align="center">⚡</h3>
+<h3 align="center"> ⚡ </h3>
+
 
 <div align="center">
   <a href = "mailto:felix@oakz.org"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
@@ -13,7 +14,7 @@
 
 - 🚴 Fun fact: **I'm a road cyclist and I rode more than 2 times the Earth's circumference already**
 
-<hr />
+<hr/>
 
 <div align="center">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felixoakz&count_private=true&layout=compact&show_icons=true&theme=dark" />
