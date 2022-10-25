@@ -1,4 +1,4 @@
-<h1 align="center">Bonsoir, I'm Felix! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"></h1>
+<h1 align="center">Bonsoir, I'm Felix! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
 <h3 align="center">- A guy from Brazil who loves creating and building things very methodically</h3>
 <h3 align="center"> ⚡ </h3>
 
