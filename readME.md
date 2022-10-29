@@ -17,10 +17,11 @@
 <hr/>
 
 <div align="center">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felixoakz&count_private=true&layout=compact&show_icons=true&theme=dark"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixoakz&layout=compact&theme=dark&hide=css,scss,html"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felixoakz&count_private=true&layout=compact&show_icons=true&theme=dark"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixoakz&layout=compact&theme=dark"/>
 </div>
 
+ 
 <h3 align="left">Tecnologies I'm familiar with or studying:</h3>
 <p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
