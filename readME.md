@@ -1,5 +1,7 @@
-<h1 align="center">Bonsoir, I'm Felix! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
-<h3 align="center">- A guy from Brazil who loves creating and building things very methodically</h3>
+<h1 align="center">Hi there, I'm Felix! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
+<h3 align="center">A guy from Brazil who loves creating and building things very methodically</h3>
+<h4 align="center">I see myself more of a backend guy, but i can go on to the frontend, center a div and do what needs to be done :) </h4>
+
 <h3 align="center"> ⚡ </h3>
 
 
@@ -8,9 +10,11 @@
   <a href="https://www.linkedin.com/in/felixoakz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-- 👨‍💻 I’m currently learning/working on **OS projects to improve my skills, enhance my portfolio and freelancing**
+- 👨‍💻 I'm currently creating some Web Aplications to add to my portfolio while I'm constantly learning new tools or maturing the ones I already use.
+  
+- I would say as of right now "I am": 30% Python, 15% HTML, 10% Javascript, 5% CSS and the rest some tools like Flask, Bootstrap, SQL, React, etc.
 
-- 📝 I write articles on [https://dev.to/felixoakz](https://dev.to/felixoakz)
+- 📝 I'll soon write articles on [https://dev.to/felixoakz](https://dev.to/felixoakz)
 
 - 🚴 Fun fact: **I'm a road cyclist and I rode more than 2 times the Earth's circumference already**
 
