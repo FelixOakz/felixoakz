@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Felix! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
-<h3 align="center">A guy from Brazil who loves creating and building things very methodically, learning in public, right here, right NOW.</h3>
-<h4 align="center">I see myself more of a backend guy, but i can go on to the frontend, center a div and do what needs to be done :) </h4>
+<h3 align="center">A guy from Brazil who loves creating and building things very methodically,<br>learning in public, right here, right NOW.</h3>
+<h4 align="center">I see myself more of a Backend guy, but i can go on to the Frontend, center a div and do what needs to be done :) </h4>
 
 <h3 align="center"> ⚡ </h3>
 
