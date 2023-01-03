@@ -12,8 +12,6 @@
 
 - 👨‍💻 I'm currently creating some Web Aplications to add to my portfolio while I'm constantly learning new tools or more probably: Maturing the ones I already use and see a point in using right now.
   
-- I would say as of right now "I am": 30% Python, 15% HTML, 5% Javascript, 5% CSS and the rest some other tools like Jinja, Flask, Bootstrap, SQL, etc.
-
 - 📝 I'll soon write articles on [https://dev.to/felixoakz](https://dev.to/felixoakz)
 
 - 🚴 Fun fact: **I'm a road cyclist and I rode more than 2 times the Earth's circumference already**
